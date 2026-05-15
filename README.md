@@ -22,7 +22,7 @@ python generate_web_directories.py \
 
 範例指令
 # 基本使用
-python generate_web_directories.py --dirsearch results.txt --katana urls.txt
+'python generate_web_directories.py --dirsearch results.txt --katana urls.txt'
 
 # 限制目錄深度為 4 層
-python generate_web_directories.py --dirsearch results.txt --katana urls.txt --max-depth 4
+'python generate_web_directories.py --dirsearch results.txt --katana urls.txt --max-depth 4'
